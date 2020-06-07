@@ -546,6 +546,10 @@ section.padding-60 {
   margin-bottom: 0;
 }
 
+.entry:first-of-type {
+  margin-top: 0em;
+}
+
 .entry .title {
   float: left;
   width: 20%;
@@ -567,7 +571,7 @@ section.padding-60 {
 }
 
 .entry .body {
-  margin: 0 0 6em;
+  margin: 0 0 3em;
   float: right;
   width: 80%;
   padding-left: 60px;
