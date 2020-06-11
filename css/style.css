@@ -1704,3 +1704,12 @@ section.padding-60 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.portfolio-image{
+    border-radius: 20px;
+}
+
+.portfolio-content img{
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
