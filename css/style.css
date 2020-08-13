@@ -71,7 +71,7 @@ img {
 }    
 
 .background-blue {
-  background: #253039;
+  background: #221cb4;
 }
 
 /*=================================================================*/
@@ -171,7 +171,7 @@ pre {
 /*=================================================================*/
 header.left {
   color: #FFF;
-  background: #253039;
+  background: #221cb4;
   border-radius: 20px;
   min-height: 620px;
   max-height: 620px;
@@ -228,7 +228,7 @@ header.left button.close {
   border: 0;
   -webkit-appearance: none;
   opacity: 1;
-  color: #FF5959;
+  color: #7f59ff;
   font-weight: 400;
   font-size: 16px;
   border-radius: 50%;
@@ -307,7 +307,7 @@ header .copyright {
 }
 
 .mobile-header {
-  background: #253039;
+  background: #221cb4;
   border-radius: 20px;
   display: none;
   -webkit-transform: translateX(0);
@@ -946,7 +946,7 @@ section.padding-60 {
 /*=================================================================*/
 .overlay {
   border-radius: 20px;
-  background: #253039;
+  background: #221cb4;
   left: 0;
   top: 0;
   opacity: 0.9;
@@ -1036,7 +1036,7 @@ section.padding-60 {
 }
 .btn-default:hover {
   background: #fff;
-  color: #253039;
+  color: #221cb4;
   -webkit-transform: translateY(-3px);
   -moz-transform: translateY(-3px);
   -ms-transform: translateY(-3px);
